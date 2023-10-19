@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Standing Desk Controllers - Reverse Engineering and Making A Custom One"
-date:   2023-09-17 16:28:16
+date:   2023-09-14 16:28:16
 categories: [Side-Projects]
 tags: [motor, motor-driver, standing desk, standing, desk, driver, relay, control, repair, reverse engineering, reverse]
 ---
@@ -346,7 +346,7 @@ Valid button presses - basically their initial and final states, and the time be
 
 We again break into a few different conditions
 
-1. `if(bTwoFinal == 1 && bOneFinal == 1)` 
+1. `if(bTwoFinal == 1 && bOneFinal == 1)` 4
     If we end our window, and the buttons are still both being held down, we continue to determine if we are 'pressing and holding' the two buttons as the same time, or if we just pressed them both for an instant
 2. `else if(elapsedTime > HOLD_TO_DOUBLE_THRESHOLD)`
     If we end our window, and our button press events happened close enough together, then we are confident we had a double-press. We then choose whether or not to go to our top preset or bottom preset depending on which one was double pressed.

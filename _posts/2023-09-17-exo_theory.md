@@ -1,8 +1,8 @@
 ---
 title: Exoskeletons and Motors 1 - Theory
 date: 2023-09-16 13:00:00 +/-0800
-categories: [TOP_CATEGORIE, SUB_CATEGORIE]
-tags: [TAG]     # TAG names should always be lowercase
+categories: [Exoskeleton]
+tags: [exoskeleton]     # TAG names should always be lowercase
 math: true
 ---
 ## Introduction

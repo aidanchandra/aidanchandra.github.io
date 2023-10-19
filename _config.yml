@@ -20,7 +20,7 @@ timezone: America/Los_Angeles
 
 title: Aidan Chandra # the main title
 
-tagline: Projects # it will display as the sub-title
+tagline: Personal Site & Projects # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -41,11 +41,10 @@ social:
   email: aidanchandra@gmail.com # change to your email address
   links: #TODO:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    - https://github.com/aidanchandra # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/aidan-chandra-177b12b9/
 
 google_site_verification: # fill in to your verification string TODO:
 
@@ -76,7 +75,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: assets/site/avatar.png
 
 # boolean type, the global switch for TOC in posts.
 toc: true
