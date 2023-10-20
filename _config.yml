@@ -38,13 +38,13 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Aidan Chandra
-  email: aidanchandra@gmail.com # change to your email address
+  # email: aidanchandra@gmail.com # change to your email address
   links: #TODO:
     # The first element serves as the copyright owner's link
-    - "https://github.com/aidanchandra" # change to your github homepage
+    # - "https://github.com/aidanchandra" # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - "https://www.linkedin.com/in/aidan-chandra-177b12b9/"
+    # - "https://www.linkedin.com/in/aidan-chandra-177b12b9/"
 
 google_site_verification: # fill in to your verification string TODO:
 
