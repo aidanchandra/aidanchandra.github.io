@@ -1,9 +1,9 @@
----
+<!-- ---
 layout: post
 title:  "Exoskeletons and Motors 2 - Building A BLCD Driver"
 date:   2023-09-23 13:14:26
 categories: [category]
----
+--- -->
 ## Introduction
 In this post, I will begin with creating a set of requirements and constraints for my design. We will then break the solution into four different components, explain 
 

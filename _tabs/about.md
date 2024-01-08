@@ -11,7 +11,7 @@ I'm an undergraduate at Stanford University, earning my Bachelor's in Electrical
 I plan to pursue my Masters in Computer Science here at Stanford and hope to graduate in 2025 with my M.A. in CS.
 
 ### Contact Info:
-[email](mailto:someone@yoursite.com) | [website](aidanchandra.com) |  [github](github.com/aidanchandra) | [linkedin](https://www.linkedin.com/in/aidan-chandra-177b12b9/)
+[email](mailto:someone@yoursite.com) | [website](https://www.aidanchandra.com) |  [github](https://www.github.com/aidanchandra) | [linkedin](https://www.linkedin.com/in/aidan-chandra-177b12b9/)
 
 ### Resume:
 > Check out my [linkedin](https://www.linkedin.com/in/aidan-chandra-177b12b9/) for my most up-to-date resume
