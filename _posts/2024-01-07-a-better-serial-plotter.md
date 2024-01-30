@@ -7,7 +7,7 @@ categories: [Serial Plotter]
 
 ## Introduction
 ![existing](/assets/smart_serial_plotter/sc.png)*behold...*
-[**GITHUB LINK**]()
+[**click here for the GITHUB LINK**](https://github.com/aidanchandra/serial-plotter)
 <!-- Brief overview of the project -->
 In developing new revisions of my motordriver board for our exoskeleton project, I found the need to use a serial plotter. I needed to plot several different trendlines on a live plotter and examine them. Furthermore, and perhaps most importantly, I needed to calculate information about this data *after* it reached the computer. 
 
@@ -63,6 +63,8 @@ Rather than wrestle with existing implementation, I set out to spin up a serial 
 
 
 ## Development Journey
+[Github Link](https://github.com/aidanchandra/serial-plotter)
+
 The first thing I did was try to get a proof of concept using matplotlib. Safe to say, this would severly limit my expansion ability. No easy way of integrating buttons, autoscaling, text-inputs, or statuses being printed.
 
 ![frist_attempt](/assets/smart_serial_plotter/Screenshot 2024-01-08 at 8.57.37 AM.png)
@@ -107,3 +109,5 @@ This means that we can be 100% confident that, regardless of thread-availabiity 
 1. Custom-analyses being integrated first in the paused-historical view, and then in realtime in the live-feed mode.
 2. Logged data replaying
 3. General bug tracking (**Please submit bugs to github!**)
+
+[Github Link](https://github.com/aidanchandra/serial-plotter)
