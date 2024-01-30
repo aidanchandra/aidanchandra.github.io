@@ -7,7 +7,9 @@ categories: [Serial Plotter]
 
 ## Introduction
 ![existing](/assets/smart_serial_plotter/sc.png)*behold...*
+
 [**click here for the GITHUB LINK**](https://github.com/aidanchandra/serial-plotter)
+
 <!-- Brief overview of the project -->
 In developing new revisions of my motordriver board for our exoskeleton project, I found the need to use a serial plotter. I needed to plot several different trendlines on a live plotter and examine them. Furthermore, and perhaps most importantly, I needed to calculate information about this data *after* it reached the computer. 
 
